@@ -2,7 +2,7 @@
 <h3 align="center">A self with own mindset.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabikishanr&label=Profile%20views&color=0e75b6&style=flat" alt="rabikishanr" /> </p>
-<img src='[[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animation%2Fmale-programmer-8928572&psig=AOvVaw0i_a4QBuhOMwm4MLJ_HtHY&ust=1703418348051000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjQ_oG-pYMDFQAAAAAdAAAAABAD](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoder&psig=AOvVaw0i_a4QBuhOMwm4MLJ_HtHY&ust=1703418348051000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjQ_oG-pYMDFQAAAAAdAAAAABAI)](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN3a29jcGsya2pzbjMyczV3NDU0Nm96eTJvaWl2bGZrbm81bjdrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)' />
+<img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN3a29jcGsya2pzbjMyczV3NDU0Nm96eTJvaWl2bGZrbm81bjdrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif'/>
 - 🔭 I’m currently working on **Hacking Projects**
 
 - 🌱 I’m currently learning **Different HACKING Techniques**
