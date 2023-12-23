@@ -2,7 +2,7 @@
 <h3 align="center">A self with own mindset.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rabikishanr&label=Profile%20views&color=0e75b6&style=flat" alt="rabikishanr" /> </p>
-<img src='https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGN3a29jcGsya2pzbjMyczV3NDU0Nm96eTJvaWl2bGZrbm81bjdrZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif'/>
+<img src='https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif' />
 - 🔭 I’m currently working on **Hacking Projects**
 
 - 🌱 I’m currently learning **Different HACKING Techniques**
