@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rabikishan Rauniyar</h1>
 <h3 align="center">A self with own mindset.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabikishanr&label=Profile%20views&color=0e75b6&style=flat" alt="rabikishanr" /> </p>
-<img src='https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif' />
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rabikishanr&label=Profile%20views&color=0e75b6&style=flat" alt="rabikishanr" /> </p>
+<img src='https://cdn.dribbble.com/users/720825/screenshots/3253310/slim-jim-_dribbble_-_800x600_.gif' align="center" />
 - 🔭 I’m currently working on **Hacking Projects**
 
 - 🌱 I’m currently learning **Different HACKING Techniques**
